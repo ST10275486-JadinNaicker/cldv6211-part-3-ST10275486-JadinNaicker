@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jadin\\source\\repos\\Jadin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|c:\\users\\jadin\\source\\repos\\jadin\\jadin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\jadincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\jadincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:Jadin\\Views\\Cart\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\cart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\cart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\cart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\cart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\aspnetuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\aspnetuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\aspnetuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\aspnetuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\aspnetroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\aspnetroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|C:\\Users\\jadin\\source\\repos\\Jadin\\jadin\\models\\aspnetrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C70BA3-AB42-4DA3-9CE9-9C0A197010E4}|Jadin\\Jadin.csproj|solutionrelative:jadin\\models\\aspnetrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\appsettings.json",
+              "RelativeDocumentMoniker": "Jadin\\appsettings.json",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\appsettings.json",
+              "RelativeToolTip": "Jadin\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T20:35:07.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Program.cs",
+              "RelativeDocumentMoniker": "Jadin\\Program.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Program.cs",
+              "RelativeToolTip": "Jadin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:34:30.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:52:02.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\Product.cs",
+              "RelativeToolTip": "Jadin\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:29:02.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:33:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Jadin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Jadin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:48:28.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Jadin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Jadin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:00:27.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Jadin\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Jadin\\Controllers\\CartController.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAcwMIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:40:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:16:00.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T20:26:06.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\Cart.cs",
+              "RelativeToolTip": "Jadin\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:28:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Jadin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:27:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Jadin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T15:37:22.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:40:09.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:46:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Jadin\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T15:36:45.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Jadin\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T15:36:31.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Jadin\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T15:36:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Jadin\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T15:36:43.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Jadin\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Jadin\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:55:13.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JadinContext.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\JadinContext.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\JadinContext.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\JadinContext.cs",
+              "RelativeToolTip": "Jadin\\Models\\JadinContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:37:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\User.cs",
+              "RelativeToolTip": "Jadin\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:29:10.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Create.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Cart\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Create.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Cart\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:23:42.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Cart\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Delete.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Cart\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:47:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Details.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Cart\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Details.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Cart\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:46:28.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Cart\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Cart\\Edit.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Cart\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:45:44.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:31:33.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAD0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:29:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:32:20.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:39:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AspNetUser.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUser.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\AspNetUser.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUser.cs",
+              "RelativeToolTip": "Jadin\\Models\\AspNetUser.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:27:56.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Jadin\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:28:44.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Jadin\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Jadin\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:43:52.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AspNetUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUserLogin.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\AspNetUserLogin.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUserLogin.cs",
+              "RelativeToolTip": "Jadin\\Models\\AspNetUserLogin.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:28:13.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AspNetUserToken.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUserToken.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\AspNetUserToken.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUserToken.cs",
+              "RelativeToolTip": "Jadin\\Models\\AspNetUserToken.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:28:25.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AspNetUserClaim.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUserClaim.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\AspNetUserClaim.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetUserClaim.cs",
+              "RelativeToolTip": "Jadin\\Models\\AspNetUserClaim.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:28:04.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AspNetRoleClaim.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetRoleClaim.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\AspNetRoleClaim.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetRoleClaim.cs",
+              "RelativeToolTip": "Jadin\\Models\\AspNetRoleClaim.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:27:46.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AspNetRole.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetRole.cs",
+              "RelativeDocumentMoniker": "Jadin\\Models\\AspNetRole.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\Jadin\\Jadin\\Models\\AspNetRole.cs",
+              "RelativeToolTip": "Jadin\\Models\\AspNetRole.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:25:25.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

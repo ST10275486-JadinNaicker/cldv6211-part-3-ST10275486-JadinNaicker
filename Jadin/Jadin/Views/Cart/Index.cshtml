@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Jadin.Models.Cart>
+
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<h1>Thank You!</h1>
+<h1>Shopping Cart Summary</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Product.ProductName) <!-- Displays name of the Product -->
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product.ProductDescription) <!-- Displays description of the Product -->
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product.ProductPrice) <!-- Displays price of the Product -->
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product.ProductName)  
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product.ProductDescription) 
+                </td>
+                <td>
+                    R @Html.DisplayFor(modelItem => item.Product.ProductPrice) 
+                </td>
+                <td>
+                    <form asp-action="Delete" asp-route-id="@item.CartId" method="post">  <!-- Deletes products from cart-->
+                        <input type="submit" value="Remove" class="btn btn-danger" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (Model.Any())
+{
+    <button id="confirmPaymentBtn" class="btn btn-primary">Confirm Payment</button>
+}
+
+@section Scripts {
+    <!-- This was adapted from Stackoverflow -->
+    <!-- https://stackoverflow.com/questions/37727972/what-is-section-scripts-and-what-it-is-used-for -->
+    <!-- Date: 15 April 2024 -->
+    <script>
+       
+        document.getElementById("confirmPaymentBtn")?.addEventListener("click", function () {
+            
+            window.location.href = "/";
+            alert("Order successfully purchased"); // Redirect to the home page with a success message
+        });
+    </script>
+}

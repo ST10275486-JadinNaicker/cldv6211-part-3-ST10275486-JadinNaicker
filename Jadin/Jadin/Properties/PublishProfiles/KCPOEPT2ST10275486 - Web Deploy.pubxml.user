@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASirGf1MFi0uFixup6U966wAAAAACAAAAAAAQZgAAAAEAACAAAABJeMNgwjmQ/FlB2Cm+gwxrMgJggxkKBlBLJS4kqKzY0gAAAAAOgAAAAAIAACAAAAAS8V+WKqOKypabDBWFjq+x9oLfzpWJV/oI2D8Erk3gQ4AAAAA97DI+yb3Il1h4mIALyx1WNJ8aMRlrBWVhpU3c/5pCT7bzdFq5e3x2SX4IU5U4wNRDuu+7K0jV2wdoGcrzSi1NiaesfsDIrLZ83qxczjlN8GMogmvbtQHoHpegMy4unesVceI/H/wg0X7bXed+SGYIGkxFPkposQWEPszJCT1ctkAAAACMRu7U/3h9Fg5zEkO4xGdqDmkc7fPPrI5I4J4KfVkmjf2cc8VSOSmmJL7e823FHPsu0RjgBPjdaslwjmC+7A1H</EncryptedPassword>
+    <History>True|2024-05-28T11:18:21.1552608Z;True|2024-05-27T20:45:52.9119519+02:00;True|2024-05-27T20:04:35.0060622+02:00;True|2024-05-27T19:55:24.2052364+02:00;True|2024-05-27T19:26:22.6137126+02:00;True|2024-05-27T19:10:31.1113218+02:00;True|2024-05-27T18:13:49.6741568+02:00;True|2024-05-27T18:09:03.7236697+02:00;True|2024-05-27T17:53:15.8393010+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:st10275486.database.windows.net,1433%3bInitial Catalog=Jadin%3bPersist Security Info=False%3bUser ID=JadinST10275486%3bPassword=Jadin_2004%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

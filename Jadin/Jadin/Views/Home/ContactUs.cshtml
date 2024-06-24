@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+</head>
+
+<body style="background-color: lightgrey;">
+    <div style="display: flex; justify-content: space-between;">
+        <div style="flex: 1;">
+            <h1 id="myHeader" style="color: black; font-size: 5em; font-family:Century, Times, serif"><center>Contact Us</center></h1>
+            <br />
+            <p style="font-family:Century">
+                We highly value your feedback and concerns. If there are any queries or concerns that you would like to raise or share with us, please take a moment to provide your email address and cellphone number below. Kindly include your specific query or concern. Our dedicated team will promptly address your message and get back to you as soon as possible. Your input is essential in helping us improve our services, and we appreciate your engagement in ensuring your satisfaction with our offerings. Thank you for your collaboration.
+            </p>
+            <form>
+                <fieldset>
+                    <div class="row">
+                        <div class="col-sm-10">
+                        </div>
+                    </div>
+                    <div>
+                        <label for="staticEmail" class="form-label mt-4">Email address</label> @*"Allows" Customers to enter email address*@
+                        <input type="email" class="form-control" id="staticEmail" value=" " readonly> @*This allows the email to be stactic "non editable"*@
+                    </div>
+                    <div>
+                        <label for="staticPhone" class="form-label mt-4">Cellphone Number</label>@*"Allows" Customers to enter Cellphone number*@
+                        <input type="text" class="form-control" id="staticPhone" value=" " readonly>@*This allows the cellphone number to be stactic "non editable"*@
+                    </div>
+                    <div>
+                        <label for="staticQuery" class="form-label mt-4">Raise Query</label>@*"Allows" Customers to enter query number*@
+                        <input type="text" class="form-control" id="staticQuery" value=" " readonly>@*This allows the query to be stactic "non editable"*@
+                    </div>
+                    <br />
+                    <p></p>
+                    <button type="button" class="btn btn-primary">Submit</button>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
